@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ifunanyapamela
 - 👀 I’m interested in in tech
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m looking to collaborate on likeminds
 - 📫 How to reach me pezejiegu90@gmail.com
 
 <!---
